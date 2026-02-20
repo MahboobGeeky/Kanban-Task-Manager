@@ -1,35 +1,35 @@
-🚀 Kanban Task Manager
+# 🚀 Kanban Task Manager
 
-A modern drag-and-drop Kanban Board built using HTML, CSS, and JavaScript to manage tasks efficiently.
+A modern and interactive **Kanban Board** built using **HTML, CSS, and JavaScript**.  
+This project helps users manage tasks efficiently using a clean drag-and-drop interface.
 
-📌 Features
+---
 
-📝 Add new tasks dynamically
+## 📌 Features
 
-🗂️ Three columns: To Do, In Progress, Done
+- 📝 Add new tasks dynamically  
+- 🔄 Drag and Drop between columns  
+- 🗂️ Task stages: **To Do**, **In Progress**, **Done**  
+- 🗑️ Delete tasks  
+- 📊 Live task counter for each column  
+- 💾 Persistent data using LocalStorage  
+- 🌙 Modern dark UI  
 
-🔄 Drag & Drop functionality
+---
 
-💾 Persistent storage using LocalStorage
+## 🛠️ Tech Stack
 
-🗑️ Delete tasks
+- HTML5  
+- CSS3 (Flexbox)  
+- Vanilla JavaScript  
+- Drag & Drop API  
+- LocalStorage API  
 
-📊 Live task counter per column
+---
 
-🌙 Clean dark UI design
+## 📸 Preview
 
-🛠️ Tech Stack
+Add your project screenshot here:
 
-HTML5
-
-CSS3 (Flexbox)
-
-Vanilla JavaScript
-
-LocalStorage API
-
-Drag & Drop API
-
-📸 Preview
-
-(Add your project screenshot here)
+```bash
+<img width="1456" height="878" alt="image" src="https://github.com/user-attachments/assets/3a3ab948-0386-4970-86b6-c4de82991520" />
