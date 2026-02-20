@@ -29,7 +29,7 @@ This project helps users manage tasks efficiently using a clean drag-and-drop in
 
 ## 📸 Preview
 
-Add your project screenshot here:
+<img width="1470" height="829" alt="image" src="https://github.com/user-attachments/assets/cf70a644-5937-408a-9388-823ee1d3a2d3" />
 
-```bash
-<img width="1456" height="878" alt="image" src="https://github.com/user-attachments/assets/3a3ab948-0386-4970-86b6-c4de82991520" />
+<img width="1470" height="849" alt="image" src="https://github.com/user-attachments/assets/fb192487-60c4-42c3-9bb5-25055cdcadba" />
+
