@@ -20,7 +20,7 @@ function addTask(title, desc, column) {
     column.appendChild(div);
     div.addEventListener("drag", (e) => {
         dragElement = div;
-    });
+    });  
 
     const deleteButton = div.querySelector("button");
     deleteButton.addEventListener("click", () => {
@@ -130,6 +130,9 @@ addTaskButton.addEventListener("click", () => {
     updateTaskCount();
 
     modal.classList.remove("active");
+
+    document.querySelector("#task-title-input").value = "";
+    document.querySelector("#task-desc-input").value = "";
 })
 /* Modal Related Code */
 
