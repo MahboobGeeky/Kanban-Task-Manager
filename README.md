@@ -31,9 +31,8 @@ This project helps users manage tasks efficiently using a clean drag-and-drop in
 ```
 📁 Kanban-Task-Manager
  ├── index.html
- ├── style.css
  ├── script.js
- └── screenshot.png
+ └── style.css
 ```
 ## 📸 Preview
 
